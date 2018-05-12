@@ -1,0 +1,33 @@
+_repo: In-Darkest-Africa-Vol.-2--or-The-Quest-Rescue-and-Retreat-of-Emin-Governor-of-Equatoria_43655
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43655-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stanley, Henry M. (Henry Morton)
+    aliases:
+    - Stanley, H. M. (Henry Morton)
+    - Rowlands, John
+    - Stanley, Henry Morton, Sir
+    birthdate: 1841
+    deathdate: 1904
+    gutenberg_agent_id: '1714'
+    url: http://www.gutenberg.org/2009/agents/1714
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
+description: ''
+gutenberg_issued: '2013-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Emin Pasha, 1840-1892'
+- !lcsh 'Africa, Central -- Description and travel'
+- !lcc 'DT'
+title: In Darkest Africa, Vol. 2; or, The Quest, Rescue, and Retreat of Emin, Governor
+  of Equatoria
+url: http://www.gutenberg.org/ebooks/43655
